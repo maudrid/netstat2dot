@@ -1,0 +1,11 @@
+{
+  "name": "netstat2dot",
+  "version": "1.0.0",
+  "description": "Converts netstat output to diagrams",
+  "main": "netstat2dot.js",
+  "scripts": {
+    "convert": "node netstat2dot.js"
+  },
+  "author": "Stefan Badenhorst",
+  "license": "MIT"
+}
