@@ -23,3 +23,5 @@ Example:
  node netstat2dot.js netstat.out -fl=192.169.0 -ff=172.16 > diagram.dot
  dot -Tsvg diagram.dot > diagram.svg
 ```
+Sample graph:
+![Sample Graph](https://raw.githubusercontent.com/maudrid/netstat2dot/main/sample-output.svg)
